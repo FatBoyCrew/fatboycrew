@@ -5,14 +5,14 @@ Codename "Color SHMUP"
 
 Le gameplay de base est simple : il y a quatre types de terrain (quatre éléments / couleurs), et pour passer sur un type de terrain le personnage doit être du même type.
 
-Exemple : il faut être bleu pour passer sur le terrain bleu (l'eau)
+Exemple : il faut être bleu pour passer sur le terrain bleu (l'eau).
 
 ### Contrôles
 
 Les déplacements se font comme dans un shoot'em'up :
 
 - Auto-scroll vertical
-- Aéplacements libres sur la zone affichée à l'écran
+- Déplacements libres sur la zone affichée à l'écran
 - (légers déplacements latéraux de la zone affichée selon la position du joueur)
 
 En plus du déplacement, il est possible de changer l'élément de son vaisseau -> air, terre, feu, eau.
@@ -39,7 +39,7 @@ On peut envisager un gameplay à la Ikaruga où la façon de tuer les ennemis va
 
 #### Système de score
 
-Le score va probablement dépendre du temps de survie du joueur, mais pas que : par exemple, faut-il encourager les joueurs qui restent longtemps dans le même élément, ou bien ceux qui changent souvent d'élément (sans mourir, plus difficile)
+Le score va probablement dépendre du temps de survie du joueur, mais pas que : par exemple, faut-il encourager les joueurs qui restent longtemps dans le même élément, ou bien ceux qui changent souvent d'élément (sans mourir, plus difficile).
 
 ## Inspiration
 
