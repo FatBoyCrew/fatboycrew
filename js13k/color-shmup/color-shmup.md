@@ -7,6 +7,8 @@ Le gameplay de base est simple : il y a quatre types de terrain (quatre élémen
 
 Exemple : il faut être bleu pour passer sur le terrain bleu (l'eau).
 
+![water-water](1-water-water.jpg)
+
 ### Contrôles
 
 Les déplacements se font comme dans un shoot'em'up :
@@ -15,7 +17,17 @@ Les déplacements se font comme dans un shoot'em'up :
 - Déplacements libres sur la zone affichée à l'écran
 - (légers déplacements latéraux de la zone affichée selon la position du joueur)
 
+![water-scrolling](2-water-scrolling.jpg)
+
 En plus du déplacement, il est possible de changer l'élément de son vaisseau -> air, terre, feu, eau.
+
+![air-air](3-air-air.jpg)
+
+![water-dash](4-water-dash.jpg)
+
+![fire-dash](5-fire-dash.jpg)
+
+![fire-fire](6-fire-fire.jpg)
 
 ### Défaite
 
