@@ -6,6 +6,11 @@ js13k
 - http://js13kgames.com/
 - http://microjs.com/
 - https://github.com/jed/140bytes/wiki/Byte-saving-techniques
+- https://github.com/search?utf8=%E2%9C%93&q=js13k
+- [Gamedev.js Weekly #32](http://us3.campaign-archive1.com/?u=4ad274b490aa6da8c2d29b775&id=420c29d9c5&e=83ce35cb21)
+- https://github.com/ooflorent/js13k-boilerplate
+- https://github.com/mneubrand/jsfxr
+- http://gamedevelopment.tutsplus.com/articles/how-to-minify-your-html5-game-for-the-js13kgames-competition--cms-21883
 
 ### Exemples de jeux
 
