@@ -22,7 +22,7 @@ _A définir_
 
 ### Capture d'écran
 
-[Stade actuel du développement](./screenshot.jpg)
+[Stade actuel du développement](./screenshot.png)
 
 ### ToDo list
 
@@ -30,8 +30,8 @@ _A définir_
  - [OK] Générer une "cave".
  - [OK] Générer des "sorties".
  - [OK] Générer des "sorties" pouvant être connectées correctement aux autes "caves".
- - [EN COURS] Générer un lissage correct de la "cave". La "cave" sera 8 fois plus vaste une fois cette étape franchie.
- - [PREVISION] Générer les différents types de sols.
+ - [OK] Générer un lissage correct de la "cave". La "cave" sera 8 fois plus vaste une fois cette étape franchie.
+ - [EN COURS] Générer les différents types de sols.
  - [PREVISION] Placer les zones/générateurs d'eau et de feu.
  - [PREVISION] Générer plusieurs "caves" connectées.
  - [PREVISION] ...
